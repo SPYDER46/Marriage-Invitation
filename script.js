@@ -58,7 +58,7 @@ function initPetals() {
 /* ── 3. MAP ───────────────────────────── */
 const MAP_URLS = {
   ceremony:  'https://maps.app.goo.gl/7p2BcjGasThSD5mKA',
-  reception: 'https://maps.app.goo.gl/gY3kQx712GKEhCWB7',
+  reception: 'https://maps.app.goo.gl/y5SEVZyEkw3k6BgCA',
 };
 
 function openMaps(venue) {
